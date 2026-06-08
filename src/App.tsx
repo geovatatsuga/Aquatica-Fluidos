@@ -907,6 +907,9 @@ solver.onTick((time) => {
               <span>{t.footerSec}</span>
             </div>
           </div>
+          <div className="footer-developer-tag">
+            Project developed by: Jeová Anderson
+          </div>
         </footer>
       </div>
     </main>
