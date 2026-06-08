@@ -1,0 +1,6 @@
+{
+  "name": "WebGL Water Ocean Simulator",
+  "description": "An interactive, high-performance 3D WebGL simulator of ocean waves, dynamic foam particles, and atmospheric lighting environments using React Three Fiber and GLSL Shaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
